@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <title>Điều tra Chăn nuôi Hàng quý - Chi cục CNTY TP.HCM</title>
+  <style>
+    html, body { margin: 0; padding: 0; width: 100%; height: 100%; overflow: hidden; background: #F4F7FA; }
+    iframe { width: 100%; height: 100%; border: none; display: block; }
+  </style>
+</head>
+<body>
+  <iframe src="https://script.google.com/macros/s/AKfycbxFZ_Y_Ior8vRppq6-5rDR1wz0C8JxouDTnieEOs6UMODyJ_O2FxEnXmVzpOWXf_qag/exec"></iframe>
+</body>
+</html>
